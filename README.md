@@ -24,3 +24,8 @@ The app records audio from the microphone and converts **Arabic speech (ar-EG)**
 
 
 
+https://github.com/user-attachments/assets/094799bd-1522-4da1-8ed4-9c63cb4500f2
+
+
+---
+#  run code:  python -m streamlit run "file path app.py"
